@@ -1,0 +1,42 @@
+# jQuery Resize Textarea plugin
+> Resize a textarea as you type.
+
+## Getting started
+### NPM
+Install package with NPM and add it to your dependencies:  
+`npm install @mogusbi/jquery.resizeTextarea --save`
+
+## Introducing it to your page
+Include the jQuery, [CopyCSS](https://github.com/moagrius/copycss) and the plugin to your page and then bind to the textarea.
+
+```html
+<!doctype html>
+<html>
+	<head>
+		...
+	</head>
+	<body>
+		<textarea></textarea>
+		
+		<script src="jquery.js"></script>
+		<script src="jquery.copycss.js"></script>
+		<script src="jquery.resizetextarea.js"></script>
+		<script>
+			$('textarea').resizeTextarea();
+		</script>
+	</body>
+</html>
+```
+
+It is also recommended to apply these styles to your textarea
+
+```css
+textarea {
+	overflow: hidden;
+	resize: none;
+}
+```
+
+## License
+Copyright &copy; Mo Gusbi.  
+Licensed under the MIT license.
