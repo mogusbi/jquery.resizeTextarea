@@ -1,5 +1,5 @@
 /*!
- * Resize Textarea v1.0.3
+ * Resize Textarea v1.0.4
  * Resize a textarea as you type
  * http://mogusbi.co.uk
  *
