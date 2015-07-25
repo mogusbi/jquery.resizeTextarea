@@ -3,7 +3,7 @@
   "description": "Resize a textarea as you type",
   "version": "1.0.1",
   "license": "MIT",
-  "main": "dist/scripts/jquery.resizeTextarea.js",
+  "main": "dist/jquery.resizeTextarea.js",
   "scripts": {
     "build": "gulp"
   },
