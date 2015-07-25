@@ -4,7 +4,7 @@
 ## Getting started
 ### NPM
 Install package with NPM and add it to your dependencies:  
-`npm install @mogusbi/jquery.resizeTextarea --save`
+`npm install @mogusbi/jquery.resizetextarea --save`
 
 ## Introducing it to your page
 Include the jQuery, [CopyCSS](https://github.com/moagrius/copycss) and the plugin to your page and then bind to the textarea.
