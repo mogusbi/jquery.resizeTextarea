@@ -1,7 +1,7 @@
 {
   "name": "@mogusbi/jquery.resizetextarea",
   "description": "Resize a textarea as you type",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "dist/jquery.resizeTextarea.js",
   "scripts": {
